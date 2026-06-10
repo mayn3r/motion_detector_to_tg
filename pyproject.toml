@@ -7,9 +7,12 @@ requires-python = ">=3.13"
 dependencies = [
     "aiogram>=3.28.2",
     "aiohttp-socks>=0.11.0",
+    "ffmpeg-python>=0.2.0",
     "loguru>=0.7.3",
     "numpy>=2.4.6",
     "opencv-python>=4.13.0.92",
     "pydantic>=2.13.4",
     "pydantic-settings>=2.14.1",
+    "sounddevice>=0.5.5",
+    "soundfile>=0.14.0",
 ]
