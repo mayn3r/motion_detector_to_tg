@@ -13,6 +13,7 @@
 - Python 3.13+
 - Веб-камера (встроенная или USB)
 - Установленный [uv](https://github.com/astral-sh/uv) (менеджер пакетов)
+- Установленны в PATH [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 
 
 ## 🚀 Установка и запуск
